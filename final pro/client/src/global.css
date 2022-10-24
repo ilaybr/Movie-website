@@ -1,0 +1,53 @@
+
+.App{
+    font-family: 'Copperplate', Papyrus, fantasy
+
+}
+
+.home{
+    text-align: center;
+    margin: auto;
+    padding : 2%;
+   
+}
+
+.member{
+    text-align: center;
+    border-style: solid; 
+    width:400px; 
+    margin: 15px auto;
+    padding: 10px;
+    border-radius: 5%;
+}
+
+.allMembers{
+
+
+}
+
+
+.allMovies{
+  position: relative;
+  
+}
+
+.movie{
+    display:flex;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+ 
+}
+
+
+.movieData{
+    float:left;
+    
+  
+}
+
+.subData{
+    float:righ; 
+    
+    
+}
